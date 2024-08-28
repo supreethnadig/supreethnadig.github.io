@@ -1,0 +1,80 @@
+body{
+    text-align: justify;
+    border: 0px solid rgb(0, 0, 0);
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 22px;
+    font-size: 18px;
+}
+
+img{
+    border-radius: 100%;
+    height: 75px;
+    width: 75px;
+}
+
+.naam{
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.institute{
+    font-size: larger;
+}
+
+.role{
+    font-size: large;
+    font-style: italic;
+}
+
+.samay{
+    font-size: medium;
+    font-style: italic;
+}
+
+.course{
+    font-size: 21px;
+}
+
+.heading{
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.hr{
+    border-bottom: solid black 1px;
+}
+
+.hr1{
+    border-bottom: dashed black 1px;
+}
+
+.time{
+    text-align: end;
+    font-size: 15px;
+}
+
+.name{
+    display:inline-block;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    border-bottom: black dashed 1px;
+    padding: 10px;
+    text-align: center;
+}
